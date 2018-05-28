@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:takepo/react-animation-sample.git",
+  "author": "takepo <takeshima.nahoko@lancers.co.jp>",
+  "license": "MIT"
 }
